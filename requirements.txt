@@ -8,3 +8,4 @@ flask-mail==0.9.1
 pyjwt==1.7.1
 flask_bootstrap==3.3.7.1
 flask_moment==0.9.0
+flask-babel==0.12.2
